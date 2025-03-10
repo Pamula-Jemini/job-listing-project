@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer intern",
+      "company": "Jobs territory",
+      "location": "WFO",
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "Code Masters",
+      "location": "Bengaluru",
+      "status": "Closed"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "Dev Solutions",
+      "location": "chennai",
+      "status": "Open"
+    }
+  ]
